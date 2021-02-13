@@ -2,7 +2,7 @@
 
 ## Overview
 
-The pupose of this analysis was to create a neural network model to map the trustworthyness of various charities to use funding appropriately when given donations. We modified our model to try to perfect our predictions and
+The pupose of this analysis was to create a neural network model to map the trustworthyness of various charities to use funding appropriately when given donations. We modified our model to try to perfect our predictions and see what makes the biggest impact on the model.
 
 ## Results
 
