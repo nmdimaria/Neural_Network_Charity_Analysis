@@ -8,9 +8,9 @@ The pupose of this analysis was to create a neural network model to map the trus
 
 ### Data Preprocessing
 
-Target Variable - IS_SUCCESSFUL Yes or No
-Used Features - APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
-Unused Features - EIN, NAME
+- Target Variable - IS_SUCCESSFUL Yes or No
+- Used Features - APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
+- Unused Features - EIN, NAME
 
 ### Compiling, Training, and Evaluating the Model
 
