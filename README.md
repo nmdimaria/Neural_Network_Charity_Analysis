@@ -28,7 +28,7 @@ I tried not to change too much between tests to keep track of the effects each o
 
 I then tried to clean the data by removing duplicate rows to see if redundant data hampered model performance with the same number of nodes. It reduced the performance.
 
-Finally, I increaced the node count to 3x the number of features and stair-stepped down to 43 (the number of features) while using the original dataframe. Performance did not improve much. However, I noticed that after 86 epochs the model had an accuracy over 75%. I tried to see if recreating the model at 86 epochs would achieve a higher accuracy. The highest I achieved was 73%
+Finally, I increased the node count to 3x the number of features and stair-stepped down to 43 (the number of features) while using the original dataframe. Performance did not improve much. However, I noticed that after 86 epochs the model had an accuracy over 75%. I tried to see if recreating the model at 86 epochs would achieve a higher accuracy. The highest I achieved was 73%.
 
 ## Summary
 
